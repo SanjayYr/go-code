@@ -2,5 +2,7 @@
 ```
 go get -u github.com/jinzhu/gorm
 
-github.com/gorilla/mux
+go get -u github.com/gorilla/mux
+
+go get -u github.com/mattn/go-sqlite3
 ```
